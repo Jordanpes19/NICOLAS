@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="LA SEXTA" tvg-name="LA SEXTA  FHD" tvg-logo="https://i.pinimg.com/originals/8f/4f/66/8f4f66408ba733251d17b0d0c4d63922.png" group-title="[ESP] TDT",LA SEXTA  FHD
 https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8
 #EXTINF:-1 ,peli
